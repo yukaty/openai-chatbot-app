@@ -1,15 +1,15 @@
 # OpenAI Chatbot App
 
-A collection of sample chatbot applications using the OpenAI API. This repository showcases how to build simple chatbots in different languages, such as PHP and Java.
+A collection of sample chatbot applications using the OpenAI API. This repository showcases how to build simple chatbots in different languages/frameworks.
 
 ## Structure
 
 - `php/` - A PHP-based chatbot app to help users learn PHP.
 - `java/` - A Java-based chatbot app to help users learn Java.
+- `langchain/` - A RAG chatbot app using LangChain.
 
 ## Setup
 
-### General
 1. Clone the repository:
    ```bash
    git clone https://github.com/yukaty/openai-chatbot-app.git
