@@ -7,6 +7,7 @@ A collection of sample chatbot applications using the OpenAI API. This repositor
 - `php/` - A PHP-based chatbot app to help users learn PHP.
 - `java/` - A Java-based chatbot app to help users learn Java.
 - `langchain/` - A RAG chatbot app using LangChain.
+- `python-flask/` - A Python-based chatbot app to help users learn Python.
 
 ## Setup
 

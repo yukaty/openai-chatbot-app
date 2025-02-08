@@ -1,0 +1,11 @@
+# Java build files
+bin/
+work/
+*.class
+
+# Eclipse project files
+.settings/
+.tomcatplugin
+
+# Environment file
+.env
